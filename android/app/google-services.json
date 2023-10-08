@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "49715907124",
+    "project_id": "yusr-23a10",
+    "storage_bucket": "yusr-23a10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49715907124:android:98b2ee0f45f94fc98dd861",
+        "android_client_info": {
+          "package_name": "com.example.yusr",
+          "google_app_id": "1:49715907124:android:98b2ee0f45f94fc98dd861"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmC8y2VAlSeXKvX8DHCwD1YHlOOK_rdSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
